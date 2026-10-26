@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, ArrowLeft, Sparkles, RotateCcw, Heart, Star } from 'lucide-react';
+import { X, ArrowLeft, Sparkles, RotateCcw } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { soundManager } from '../../utils/soundEffects';
 
